@@ -1,0 +1,14 @@
+div {
+}
+
+.main-baner{
+    background-color: red;
+}
+
+.banner {
+    background-color: green;
+}
+
+#banner-wrap {
+  display: flex;
+}
