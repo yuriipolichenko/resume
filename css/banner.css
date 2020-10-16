@@ -1,14 +1,38 @@
-div {
-}
-
-.main-baner{
-    background-color: red;
-}
-
 .banner {
-    background-color: green;
+  display: flex;
+  height: 566px;
+  background-color: #ffffff;
+  background-image: url(../img/foto.jpg);
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
 }
 
-#banner-wrap {
-  display: flex;
+h1 {
+  width: 672px;
+  height: 63px;
+  margin-top: 139px;
+  font-family: "OpenSans-Semibold,AdobeInvisFont,MyriadPro-Regular";
+  font-size: 63px;
+  color: #ffffff;
+}
+
+.bunner__subtitle {
+  width: 375px;
+  height: 61px;
+  margin-top: 30px;
+  font-family: "OpenSans,AdobeInvisFont,MyriadPro-Regular";
+  font-size: 23px;
+  color: #ffffff;
+}
+
+.banner__btn {
+  width: 226px;
+  height: 64px;
+  border-color: #eb0909;
+  border-radius: 3px;
+  margin-top: 59px;
+  font-family: "OpenSans-Semibold,AdobeInvisFont,MyriadPro-Regular";
+  font-size: 26px;
+  color: #ffffff;
 }
