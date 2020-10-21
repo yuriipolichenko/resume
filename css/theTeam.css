@@ -1,0 +1,46 @@
+.the_team {
+  display: flex;
+  justify-content: center;
+  height: 798px;
+  /* text-align: center; */
+}
+
+
+.the_team__p {
+  margin-top: 93px;
+  color: #4e525d;
+  font-size: 42px;
+  font-weight: 400;
+  text-align: center;
+}
+.the_team_blok_2 {
+    width: 247px;
+    height: 414px;
+}
+
+.icon-AdrianThomas {
+    width: 201px;
+    height: 201px;
+    border-radius: 50%;
+    background-color: #eeeef0;
+}
+
+.the_team__title1 {
+  color: #4e525d;
+  font-size: 22px;
+  text-align: center;
+}
+.the_team__title2 {
+  color: #4e525d;
+  font-size: 14px;
+  text-align: center;
+}
+.the_team__text {
+  margin-top: 24px;
+  min-width: 247px;
+  max-height: 66px;
+  color: #4e525d;
+  font-size: 14px;
+  text-align: center;
+  overflow: hidden;
+}

@@ -9,10 +9,10 @@
 }
 
 h1 {
-  width: 672px;
   height: 63px;
   margin-top: 139px;
-  font-family: "OpenSans-Semibold,AdobeInvisFont,MyriadPro-Regular";
+  font-family: "Open Sans";
+  font-weight: 600;
   font-size: 63px;
   color: #ffffff;
 }
@@ -21,18 +21,20 @@ h1 {
   width: 375px;
   height: 61px;
   margin-top: 30px;
-  font-family: "OpenSans,AdobeInvisFont,MyriadPro-Regular";
+  font-family: "Open Sans";
   font-size: 23px;
-  color: #ffffff;
+  color: #ffffff;  
+  line-height: 35px;
 }
 
 .banner__btn {
-  width: 226px;
-  height: 64px;
-  border-color: #eb0909;
-  border-radius: 3px;
-  margin-top: 59px;
-  font-family: "OpenSans-Semibold,AdobeInvisFont,MyriadPro-Regular";
+  position: absolute;
+  margin-top: 352px;
+  padding: 23px 36px 22px 43px;
+  border: 3px solid white;
+  border-radius: 8px;
+  font-family: "Open Sans";
   font-size: 26px;
+  text-align: center;
   color: #ffffff;
 }
